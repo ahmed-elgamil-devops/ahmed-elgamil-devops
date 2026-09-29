@@ -17,13 +17,13 @@ Electronics & Communications Engineering graduate focused on DevOps and Cloud, w
 - **Networking:** Optical fiber transmission (SDH, DWDM), mobile networks (4G/5G)
 
 ## Experience
-**IT Support Specialist** | Private Company | 2025 – 2026
+**IT Support Specialist** | IT Services Company | 2025 – 2026
 - Provided technical support for end users on hardware, software, network and account issues.
 - Installed, configured and maintained workstations, printers and peripherals.
 - Handled user accounts, access permissions and password resets.
 - Troubleshot network connectivity (LAN, Wi-Fi, IP configuration) and escalated complex issues when needed.
 
-**Help Desk Technician** | Private Company | 2024 – 2025
+**Help Desk Technician** | IT Services Company | 2024 – 2025
 - Handled incoming support tickets by phone, email and in person, from logging to resolution.
 - Resolved common Windows, Microsoft Office and email issues for end users.
 - Documented recurring issues and solutions to speed up future troubleshooting.
