@@ -39,12 +39,12 @@ Electronics & Communications Engineering graduate focused on DevOps and Cloud, w
 - Graduation Project: Smart Gateway for Individuals and Cars – graded Excellent (A+).
 
 ## Training & Courses
-- AWS Solutions Architect Associate – Exam Preparation
-- Terraform Associate – Exam Preparation
-- Azure Fundamentals (AZ-900) – Exam Preparation
+- AWS Solutions Architect Associate
+- Terraform Associate
+- Azure Fundamentals (AZ-900)
 - Kubernetes, Docker, Linux, Bash Scripting, Git & GitHub, YAML
 - AWS Cloud Automation Using Python Scripting
 - CI/CD with Jenkins and GitHub Actions; GitLab CI/CD
 
 ## Languages
-Arabic (Native) | English (Upper-Intermediate)
+Arabic (Native) | English (Intermediate)
