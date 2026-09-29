@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Elgamil
 
-**Junior DevOps & Cloud Engineer** based in the UAE, with an Electronics & Communications Engineering degree and 2 years in IT Support / Help Desk.
+**Junior DevOps & Cloud Engineer** based in the UAE, with an Electronics & Communications Engineering degree and 1.5 years in IT Support / Help Desk.
 
 - Working with: AWS · Azure · Terraform · Docker · Kubernetes · Linux · Bash · Python · CI/CD (Jenkins, GitHub Actions, GitLab CI)
 - Currently building hands-on cloud and Infrastructure as Code projects
