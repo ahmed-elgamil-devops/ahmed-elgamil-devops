@@ -5,7 +5,7 @@
 United Arab Emirates | ahmed.algmil@gmail.com | [LinkedIn](https://www.linkedin.com/in/ahmed-elgamil-devops) | [GitHub](https://github.com/ahmed-elgamil-devops)
 
 ## Professional Summary
-Electronics & Communications Engineering graduate focused on DevOps and Cloud, with 2 years of IT Support / Help Desk experience and hands-on training in Linux, Bash, Git/GitHub, Docker, Kubernetes, Terraform, AWS automation with Python, Azure fundamentals and CI/CD (Jenkins, GitHub Actions, GitLab CI). Background in telecom networks through two internships at Telecom Egypt (WE). Based in the UAE and available immediately for Junior DevOps / Cloud Engineer roles.
+Electronics & Communications Engineering graduate focused on DevOps and Cloud, with 1.5 years of IT Support / Help Desk experience and hands-on training in Linux, Bash, Git/GitHub, Docker, Kubernetes, Terraform, AWS automation with Python, Azure fundamentals and CI/CD (Jenkins, GitHub Actions, GitLab CI). Background in telecom networks through two internships at Telecom Egypt (WE). Based in the UAE and available immediately for Junior DevOps / Cloud Engineer roles.
 
 ## Technical Skills
 - **Cloud:** AWS (EC2, VPC, S3, IAM), Microsoft Azure (fundamentals)
@@ -17,13 +17,13 @@ Electronics & Communications Engineering graduate focused on DevOps and Cloud, w
 - **Networking:** Optical fiber transmission (SDH, DWDM), mobile networks (4G/5G)
 
 ## Experience
-**IT Support Specialist** | IT Services Company, Egypt | 2025 – 2026
+**IT Support Specialist** | IT Services Company, Egypt | Aug 2025 – May 2026
 - Provided technical support for end users on hardware, software, network and account issues.
 - Installed, configured and maintained workstations, printers and peripherals.
 - Handled user accounts, access permissions and password resets.
 - Troubleshot network connectivity (LAN, Wi-Fi, IP configuration) and escalated complex issues when needed.
 
-**Help Desk Technician** | IT Services Company, Egypt | 2024 – 2025
+**Help Desk Technician** | IT Services Company, Egypt | Dec 2024 – Jul 2025
 - Handled incoming support tickets by phone, email and in person, from logging to resolution.
 - Resolved common Windows, Microsoft Office and email issues for end users.
 - Documented recurring issues and solutions to speed up future troubleshooting.
