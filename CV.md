@@ -5,14 +5,15 @@
 United Arab Emirates | ahmed.algmil@gmail.com | [LinkedIn](https://www.linkedin.com/in/ahmed-elgamil-devops) | [GitHub](https://github.com/ahmed-elgamil-devops)
 
 ## Professional Summary
-Electronics & Communications Engineering graduate focused on DevOps and Cloud, with 1.5 years of IT Support / Help Desk experience and hands-on training in Linux, Bash, Git/GitHub, Docker, Kubernetes, Terraform, AWS automation with Python, Azure fundamentals and CI/CD (Jenkins, GitHub Actions, GitLab CI). Background in telecom networks through two internships at Telecom Egypt (WE). Based in the UAE and available immediately for Junior DevOps / Cloud Engineer roles.
+Electronics & Communications Engineering graduate focused on DevOps and Cloud, with 1.5 years of IT Support / Help Desk experience and hands-on training in Python, Linux, Bash, Git/GitHub, Docker, Kubernetes, Terraform, AWS automation (boto3), Azure fundamentals and CI/CD (Jenkins, GitHub Actions, GitLab CI). Background in telecom networks through two internships at Telecom Egypt (WE). Based in the UAE and available immediately for Junior DevOps / Cloud Engineer roles.
 
 ## Technical Skills
 - **Cloud:** AWS (EC2, VPC, S3, IAM), Microsoft Azure (fundamentals)
 - **Infrastructure as Code:** Terraform, YAML
 - **Containers & Orchestration:** Docker, Kubernetes
 - **CI/CD:** Jenkins, GitHub Actions, GitLab CI/CD
-- **Scripting & OS:** Linux, Bash, Python
+- **Programming & Scripting:** Python (scripting & AWS automation with boto3), Bash
+- **Operating Systems:** Linux, Windows
 - **Version Control:** Git, GitHub
 - **Networking:** Optical fiber transmission (SDH, DWDM), mobile networks (4G/5G)
 
